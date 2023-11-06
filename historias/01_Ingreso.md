@@ -16,7 +16,7 @@ La aplicación debe proporcionar una pantalla de inicio de sesión donde los usu
 ## Análisis: 
 ### Pantalla de Ingreso
 La pantalla de ingreso debe permitir al usuario realizar las siguientes acciones:
-
+![Alt text](Img1.png)
 Ingresar las credenciales (por ejemplo, correo electrónico y contraseña).
 
 ## Criterios de aceptación (Gherkin): 
