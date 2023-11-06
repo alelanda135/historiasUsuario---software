@@ -18,10 +18,11 @@ Para: Descubrir nuevas recetas de cócteles y encontrar inspiración para prepar
 ## Análisis:
 
 ### Pantalla de Inicio con Recomendaciones de Cócteles
-- La pantalla de inicio debe permitir al usuario:
+La pantalla de inicio debe permitir al usuario:
 - Ver una lista de recetas de cócteles recomendadas de forma aleatoria y pública.
 - Hacer clic en una receta recomendada para ver detalles adicionales, incluyendo instrucciones de preparación.
 - Actualizar la lista de recomendaciones con solo un gesto o al recargar la pantalla.
+![Alt text](Img6.png)
 
 ## Criterios de Aceptación:
 Gherkin

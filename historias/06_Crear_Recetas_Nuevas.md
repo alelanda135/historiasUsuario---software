@@ -22,12 +22,7 @@ La pantalla de creación de recetas debe permitir al usuario realizar las siguie
 - Agregar los ingredientes y las cantidades necesarias.
 - Describir el proceso de preparación.
 - Cargar una imagen opcional del cóctel.
-
-
-### Pantalla de Exploración de Recetas de Cócteles
-- La pantalla de exploración debe permitir a los usuarios:
-- Explorar recetas populares y bien calificadas.
-- Ver detalles de una receta, incluyendo ingredientes, preparación, calificaciones y comentarios de otros usuarios.
+![Alt text](Img5.png)
 
 
 ## Criterios de Aceptación:

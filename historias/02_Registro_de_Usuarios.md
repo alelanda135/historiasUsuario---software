@@ -15,6 +15,8 @@ Para: Crear una cuenta personal.
 La pantalla de registro debe permitir al usuario realizar las siguientes acciones:
 - Ingresar la información requerida para crear una cuenta (nombre, correo electrónico, contraseña, etc.).
 - Opcionalmente, activar la opción de registro a través de redes sociales si está disponible.
+![Alt text](Img2.png)
+
 
 ## Criterios de aceptación (Gherkin): 
 ### Registro de Usuarios

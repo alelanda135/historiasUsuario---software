@@ -21,7 +21,7 @@ La pantalla de mostrar recetas creadas de cócteles debe permitir a los usuarios
 
 - Buscar recetas de cócteles creadas.
 - Ver información detallada de cada receta, incluyendo ingredientes y pasos de preparación.
-
+![Alt text](Img4.png)
 
 ## Criterios de aceptación (Gherkin): 
 

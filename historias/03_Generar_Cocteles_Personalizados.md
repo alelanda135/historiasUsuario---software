@@ -23,9 +23,11 @@ La pantalla de generación de cócteles personalizados debe permitir al usuario 
 
 - Ingresar ingredientes disponibles en su hogar.
 - Personalizar las preferencias de cócteles, como el tipo de cóctel deseado.
+![Alt text](Img7.png)
 
 ### Pantalla de recomendación de cócteles generados
 La pantalla de recomendación de cócteles generados muestra al usuario todos los cócteles que puede preparar basados en los ingredientes y preferencias ingresados.
+![Alt text](Img8.png)
 
 ## Criterios de aceptación
 Gherkin
