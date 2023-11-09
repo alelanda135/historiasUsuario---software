@@ -47,28 +47,18 @@ Authorization: Bearer JWT
 Body:
 ```
 {
-"nombre": "Nombre de la Receta",
-"categoria": "Categoría del Cóctel",
-"ingredientes": [
-{
-"nombre": "Ingrediente 1",
-"cantidad": "1 oz"
-},
-{
-"nombre": "Ingrediente 2",
-"cantidad": "0.5 oz"
-}
-],
-"preparacion": "Pasos para preparar el cóctel...",
-"imagen": "URL de la imagen (opcional)",
-"publica": true,
-"notas": "Notas adicionales o consejos"
+   "nombre": "Nombre de la Receta",
+    "categoria": "Categoría del Cóctel",
+    "ingredientes": "Ingredientes mas la cantidad para la preparacion del coctel...",
+    "preparacion": "Pasos para preparar el cóctel...",
+    "imagen": "URL de la imagen (opcional)",
+    "notas": "Notas adicionales o consejos"
 }
 ```
 Response: Exitoso statusCode: 200
 ```
 {
-
+    "message": "Coctel creado con exito"
 }
 ```
 Response: No encontrado statusCode: 404
