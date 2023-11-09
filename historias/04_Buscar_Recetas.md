@@ -17,7 +17,7 @@ La pantalla de búsqueda de recetas de cócteles debe permitir al usuario realiz
 - Ingresar criterios de búsqueda nombre del cóctel.
 - Iniciar la búsqueda y obtener una lista de recetas que coincidan con los criterios.
 
-![Alt text](img11.png)
+![Alt text](Img11.jpeg)
 
 
 ### Pantalla de Resultados de Búsqueda de Recetas de Cócteles
