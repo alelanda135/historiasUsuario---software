@@ -1,5 +1,5 @@
 # TABLA DE USUARIOS
-![Alt text](../historia/Img1BDD.png)
+![Alt text](Img1BDD.png)
 
 # Crear usuarios 
 ## QUERY BDD:
@@ -14,7 +14,7 @@ Authorization: Bearer JWT
 ```
 
 ## MOCKUP: 
-![Alt text](historias/Img1.png)
+![Alt text](Img1.png)
 
 # Iniciar sesion
 ## QUERY BDD:
@@ -28,5 +28,5 @@ Accept: Application/json
 Authorization: Bearer JWT
 ```
 ## MOCKUP
-![Alt text](historias/Img2.png)
+![Alt text](Img2.png)
 
