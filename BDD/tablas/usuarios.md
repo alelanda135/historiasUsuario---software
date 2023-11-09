@@ -1,5 +1,5 @@
 # TABLA DE USUARIOS
-![Alt text](historias/Img1BDD.png)
+![Alt text](../historia/Img1BDD.png)
 
 # Crear usuarios 
 ## QUERY BDD:
