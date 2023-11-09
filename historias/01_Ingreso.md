@@ -31,7 +31,6 @@ Entonces: El sistema debe validar las credenciales y permitir el acceso si son c
 La pantalla de ingreso debe incluir los campos para el correo electrónico o nombre de usuario y la contraseña, además de un botón "Iniciar Sesión".
 
 Request:
-
 ```
 POST BASE_URL api/v1/login/
 Accept: Application/json
@@ -40,10 +39,11 @@ Authorization: Bearer JWT
 Request:
 ```
 {
-
+  "username": "johndoe",
+  "password": "secret",
+  "email": "johndoe@example.com"
 }
 ```
-
 Response: Exitoso statusCode: 200
 ```
 {

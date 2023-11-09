@@ -49,23 +49,13 @@ Reponse:
 ```
 [
 {
-"nombre": "Nombre de la Receta",
-"categoria": "Categoría del Cóctel",
-"ingredientes": [
-{
-"nombre": "Ingrediente 1",
-"cantidad": "1 oz"
-},
-{
-"nombre": "Ingrediente 2",
-"cantidad": "0.5 oz"
+    "name": "Nombre de la Receta",
+    "category": "Categoría del Cóctel",
+    "ingredients": "Ingredientes mas la cantidad para la preparacion del coctel...",
+    "preparation": "Pasos para preparar el cóctel...",
+    "image": "URL de la imagen (opcional)",
+    "notes": "Notas adicionales o consejos"
 }
-],
-"preparacion": "Pasos para preparar el cóctel...",
-"imagen": "URL de la imagen (opcional)",
-"publica": true,
-"notas": "Notas adicionales o consejos"
-},
 //mas recetas
 ]
 ```

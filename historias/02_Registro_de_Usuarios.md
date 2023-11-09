@@ -27,7 +27,6 @@ Entonces: El sistema debe validar la información y crear la cuenta si es correc
 ### Pantalla de Registro de Usuarios
 La pantalla de registro debe incluir campos para ingresar la información requerida y un botón "Registrarse". Si se permite el registro a través de redes sociales, debe haber una opción correspondiente para esa función.
 
-Request:
 ```
 POST BASE_URL api/v1/login/createuser
 Accept: Application/json
@@ -36,9 +35,12 @@ Authorization: Bearer JWT
 Request:
 ```
 {
-
+  "username": "johndoe",
+  "password": "secret",
+  "email": "johndoe@example.com"
 }
 ```
+
 Response: Exitoso statusCode: 200
 ```
 {

@@ -50,7 +50,7 @@ Para realizar la solicitud de generación:
 
 Request:
 ```
-GET BASE_URL/api/v1/coctelia
+POST BASE_URL/api/v1/coctelia
 Accept: Application/json
 Authorization: Bearer JWT
 ```
@@ -80,8 +80,7 @@ Request:
             "Hielo"
         ],
         "preparacion": "1. En un agitador, combine el tequila, el triple sec, el jugo de limón y el azúcar. Agite bien.\n2. Sirva en un vaso de margarita previamente enfriado con sal en el borde.\n3. Agregue hielo y decore con una rodaja de limón.",
-        "mezclas": [],
-        "extras": []
+        "notas": []
     },
     {
         "nombre": "Piña Colada",
@@ -94,8 +93,7 @@ Request:
             "Hielo"
         ],
         "preparacion": "1. En una licuadora, combine el ron blanco, la crema de coco, el jugo de piña y el hielo.\n2. Mezcle hasta que la mezcla esté suave y cremosa.\n3. Sirva en un vaso de piña o en un vaso alto y decore con una rodaja de piña y una cereza maraschino.",
-        "mezclas": [],
-        "extras": []
+        "notas": []
     },
     {
         "nombre": "Mojito",
@@ -110,8 +108,7 @@ Request:
             "Hielo"
         ],
         "preparacion": "1. En un vaso, mezcle las hojas de menta y el azúcar.\n2. Agregue el jugo de lima y mezcle bien.\n3. Añada el ron blanco y el hielo.\n4. Termine con el agua con gas y decore con una ramita de menta y una rodaja de lima.",
-        "mezclas": [],
-        "extras": []
+        "notas": []
     }
 ]
 ```
