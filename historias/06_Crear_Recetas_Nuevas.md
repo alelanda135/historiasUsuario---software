@@ -23,7 +23,7 @@ La pantalla de creación de recetas debe permitir al usuario realizar las siguie
 - Describir el proceso de preparación.
 - Cargar una imagen opcional del cóctel.
 
-![Alt text](Img5.png)
+![Alt text](Img12.png)
 
 
 ## Criterios de Aceptación:
