@@ -1,10 +1,10 @@
 # TABLA DE USUARIOS
-![Alt text](Img1.png)
+![Alt text](historias/Img1BDD.png)
 
 # Crear usuarios 
 ## QUERY BDD:
-INSERT INTO "User" (username,  password,  email)
-VALUES ('new_user', 'secret','new_user@example.com');
+INSERT INTO "User" (username,  password,  email, Type_user_id)
+VALUES ('new_user', 'secret','new_user@example.com', 2);
 
 ## API:
 ```
@@ -16,9 +16,9 @@ Authorization: Bearer JWT
 ## MOCKUP: 
 ![Alt text](historias/Img1.png)
 
-# Obtener usuarios
+# Iniciar sesion
 ## QUERY BDD:
-SELECT id, username, password, email
+SELECT id, username, password, email, Type_user_id
 FROM "User"
 
 ## API POST:
@@ -28,5 +28,5 @@ Accept: Application/json
 Authorization: Bearer JWT
 ```
 ## MOCKUP
-![Alt text](historias/Img1.png)
+![Alt text](historias/Img2.png)
 
