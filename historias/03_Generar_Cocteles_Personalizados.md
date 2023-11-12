@@ -11,9 +11,8 @@ Para: para elaborar un cóctel con mis ingredientes favoritos o disponibles
 ## Especificación de requerimientos
 - La aplicación debe permitir al usuario ingresar ingredientes disponibles en su hogar.
 - La capacidad máxima de licores ingresados será 4.
-- La capacidad máxima de mezclador o combinador de licores ingresados será de 4.
+- La capacidad máxima de bebidas acompañantes para los licores ingresados será de 4.
 - El espacio de extras será opcional.
-- Debe haber una integración con APIs de consumo para obtener información adicional sobre ingredientes y cócteles.
 - Los cócteles generados deben basarse en los ingredientes ingresados por el usuario.
 - Debe haber opciones de personalización, como seleccionar el tipo de cóctel (por ejemplo, refrescante, fuerte, dulce, etc.).
 
@@ -22,19 +21,18 @@ Para: para elaborar un cóctel con mis ingredientes favoritos o disponibles
 La pantalla de generación de cócteles personalizados debe permitir al usuario realizar las siguientes acciones:
 
 - Ingresar ingredientes disponibles en su hogar.
-- Personalizar las preferencias de cócteles, como el tipo de cóctel deseado.
-![Alt text](img9.png)
+- Personalizar las preferencias de cócteles, como la categoria del coctel.
+![Alt text](Img8.png)
 
 ### Pantalla de recomendación de cócteles generados
 La pantalla de recomendación de cócteles generados muestra al usuario todos los cócteles que puede preparar basados en los ingredientes y preferencias ingresados.
 
-![Alt text](img10.png)
+![Alt text](img9.png)
 
 ## Criterios de aceptación
 Gherkin
 
 ## Generación de Cócteles
-
 Dado: Que el usuario ha iniciado sesión en la aplicación.
 Cuando: El usuario ingresa ingredientes disponibles y personalizar sus preferencias de cócteles.
 Entonces: La aplicación debe generar recomendaciones de cócteles basados en los ingredientes y preferencias del usuario.

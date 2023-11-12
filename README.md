@@ -13,6 +13,7 @@ Generar ingresos a través de suscripciones, mediante la creación de cócteles 
 05. Listar recetas de cócteles de forma pública.
 06. Crear recetas nuevas de cócteles.
 07. Mostrar recetas creadas de cócteles.
+08. Historial de cocteles generados.
 
 ## Whish List
 10. Filtrar cócteles por país.

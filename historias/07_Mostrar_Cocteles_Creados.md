@@ -21,7 +21,7 @@ La pantalla de mostrar recetas creadas de cócteles debe permitir a los usuarios
 
 - Buscar recetas de cócteles creadas.
 - Ver información detallada de cada receta, incluyendo ingredientes y pasos de preparación.
-![Alt text](Img4.png)
+![Alt text](Img5.png)
 
 ## Criterios de aceptación (Gherkin): 
 
@@ -63,6 +63,23 @@ Response: Exitoso statusCode: 200
 ```
 {
 
+}
+```
+Response: No encontrado statusCode: 404
+
+
+
+```
+Request para eliminar coctel:
+```
+DELETE BASE_URL/api/v1/cocktailRecipes/{recipeId}
+Content-Type: application/json
+Authorization: Bearer JWT
+```
+Response: Exitoso statusCode: 200
+```
+{
+ "message": "Coctel elimnado con exito."
 }
 ```
 Response: No encontrado statusCode: 404

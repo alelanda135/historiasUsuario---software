@@ -14,16 +14,16 @@ Los resultados de búsqueda deben mostrarse de manera clara y ordenada, con info
 ## Análisis:
 ### Pantalla de Búsqueda de Recetas de Cócteles
 La pantalla de búsqueda de recetas de cócteles debe permitir al usuario realizar las siguientes acciones:
-- Ingresar criterios de búsqueda nombre del cóctel.
+- Ingresar criterios de búsqueda siendo el nombre del cóctel.
 - Iniciar la búsqueda y obtener una lista de recetas que coincidan con los criterios.
 
-![Alt text](Img11.jpeg)
+![Alt text](Img3.jpeg)
 
 
 ### Pantalla de Resultados de Búsqueda de Recetas de Cócteles
 La pantalla de resultados de búsqueda debe mostrar al usuario una lista de recetas que coincidan con los criterios de búsqueda. Cada resultado debe incluir detalles de la receta, como ingredientes, preparación y otros datos relevantes.
 
-![Alt text](Img3.png)
+![Alt text](Img4.png)
 
 ## Criterios de aceptación
 Gherkin

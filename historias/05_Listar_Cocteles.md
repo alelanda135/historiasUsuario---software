@@ -22,7 +22,7 @@ La pantalla de inicio debe permitir al usuario:
 - Ver una lista de recetas de cócteles recomendadas de forma aleatoria y pública.
 - Hacer clic en una receta recomendada para ver detalles adicionales, incluyendo instrucciones de preparación.
 - Actualizar la lista de recomendaciones con solo un gesto o al recargar la pantalla.
-![Alt text](Img6.png)
+![Alt text](Img3.png)
 
 ## Criterios de Aceptación:
 Gherkin
