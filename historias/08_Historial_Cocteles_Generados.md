@@ -27,6 +27,7 @@ La pantalla de bebida generada muestra los detalles de la respuesta de la IA, qu
 
 ### Pantalla de Detalles de la Solicitud
 La pantalla de detalles de la solicitudes a la IA debe permitir observas cuales fueron detalles de los parámetros proporcionados para la generación de la receta.
+
 ![Alt text](Img12.png)
 
 ## Criterios de aceptación:
